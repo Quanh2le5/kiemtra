@@ -19,6 +19,11 @@ Chạy ứng dụng Web trên cổng 5175:
 
 streamlit run app.py --server.port 5175
 
+# flask 
+pip install flask matplotlib
+
+python app.py
+
 # git
 
 git init
