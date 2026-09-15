@@ -32,3 +32,4 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:Quanh2le5/kiemtra.git
 git push -u origin main
+git rm --cached tên_file_cần_bỏ_qua
