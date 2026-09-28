@@ -1,0 +1,14 @@
+bin/
+include/
+lib/
+lib64/
+share/
+conda-meta/
+pyvenv.cfg
+etc/
+ssl/
+x86_64-conda-linux-gnu/
+compiler_compat/
+man/
+compiler_compat/
+man/
