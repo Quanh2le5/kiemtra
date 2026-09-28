@@ -10,6 +10,4 @@ ssl/
 x86_64-conda-linux-gnu/
 compiler_compat/
 man/
-compiler_compat/
-man/
-app1.html
+anh.txt
